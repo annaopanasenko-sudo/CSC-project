@@ -1,9 +1,0 @@
-clean_file,source_file,route,start_floor,end_floor,floor_intervals,reference_height_m,duration_s,samples,start_pressure_median_Pa,end_pressure_median_Pa,pressure_change_Pa,direction_check,pressure_height_estimate_m,signed_pressure_height_m
-6_to_0_trial_01.csv,0_to_6_(1)(1).csv,0_to_6,0,6,6,19.20,36.06,3608,97748.31,97572.15,-176.16,ascent (pressure falls),14.96,14.96
-0_to_6_trial_01.csv,0_to_6_(2)(1).csv,0_to_6,0,6,6,19.20,32.94,3296,97761.12,97568.79,-192.33,ascent (pressure falls),16.34,16.34
-0_to_6_trial_03.csv,6_to_0_(1)(1).csv,6_to_0,6,0,6,19.20,30.1,3012,97566.35,97763.28,196.93,descent (pressure rises),-16.73,-16.73
-0_to_6_trial_04.csv,6_to_0_(2)(1).csv,0_to_6,0,6,6,19.20,32.19,3221,97767.21,97568.5,-198.72,ascent (pressure falls),16.88,16.88
-6_to_0_trial_02.csv,6_to_0_(3)(1).csv,6_to_0,6,0,6,19.20,31.27,3128,97562.77,97752.91,190.15,descent (pressure rises),-16.15,-16.15
-6_to_3_trial_01.csv,6_to_3(1).csv,6_to_3,6,3,3,9.60,19.94,1996,97563.57,97654.75,91.19,descent (pressure rises),-7.75,-7.75
-6_to_4_trial_01.csv,6_to_4(1).csv,6_to_4,6,4,2,6.40,17.53,1755,97565.83,97626.53,60.69,descent (pressure rises),-5.16,-5.16
-4_to_0_trial_01.csv,4_to_0(1).csv,4_to_0,4,0,4,12.80,29.31,2933,97628.66,97768.24,139.58,descent (pressure rises),-11.86,-11.86
